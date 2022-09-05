@@ -28,7 +28,7 @@
 *8. df: The df command is used to see the available disk space in each of the partitions of your system in KBs*
 ![dfcmd](./dfcmd.png)
 
-*9. df -m: The df-m command is used to see the available disk space in each of the partitions of your system in Megabytes*
+*9. df -m: The df -m command is used to see the available disk space in each of the partitions of your system in Megabytes*
 ![df-mcmd](./df-mcmd.png)
 
 *10. rm: The rm command is used to delete all files and directories*
