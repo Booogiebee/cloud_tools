@@ -1,5 +1,5 @@
 *10 LINUX COMMANDS*
-*NB: screenshots with more than one command could not crop beyond, reference is only made to the noted in the explanation*
+*NB: screenshots with more than one command could not crop beyond, reference is only made to the command noted in the explanation*
 
 *1. touch: The touch command is used to create a file as shown below*
 ![touchcmd](./touchcmd.png)
