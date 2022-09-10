@@ -7,4 +7,5 @@
 ![gitremote-v](./git%20remote-v.jpg)
 
 *This is the output of git log*
+
 ![gitlog](gitlog.jpg)
