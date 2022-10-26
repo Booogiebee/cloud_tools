@@ -1,9 +1,10 @@
-*The following two images are screenshot of Ansible Playbook* <br/>
-![playbook](playbook1.yml.jpg) 
-![playbook](playbook2.yml.jpg) <br/> <br/> <br/>
+*The following two images are the screenshot of bash script* <br/> <br/>
+![bashScript 1](./bashScript1.jpg) <br/> <br/>
 
-*Screenshot of the output of systemctl status apache2* <br/>
-![apacheservice](apacheservice.jpg) <br/> <br/> <br/>
+![bashScript 2](./bashScript2.jpg) <br/> <br/> <br/> <br/>
 
-*Screenshot of the rendered page* <br/>
-![renderedpage](renderedpage.jpg)
+*Screenshot of cronjob* <br/> <br/>
+![cronJob](./rcronjob.jpg) <br/> <br/> <br/> <br/>
+
+*Screenshot of email with daily RAM usage* <br/> <br/>
+![RAMUsage](./dailyramusage.jpg) <br/> <br/>

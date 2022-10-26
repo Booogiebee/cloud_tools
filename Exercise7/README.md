@@ -1,10 +1,11 @@
-*The following two images are the screenshot of bash script* <br/> <br/>
-![bashScript 1](./bashScript1.jpg) <br/> <br/>
+*This is the output of git config -l*
 
-![bashScript 2](./bashScript2.jpg) <br/> <br/> <br/> <br/>
+![gitconfig-l](./gitconfig-l.png)
 
-*Screenshot of cronjob* <br/> <br/>
-![cronJob](./rcronjob.jpg) <br/> <br/> <br/> <br/>
+*This is the output of git remote -v*
 
-*Screenshot of email with daily RAM usage* <br/> <br/>
-![RAMUsage](./dailyramusage.jpg) <br/> <br/>
+![gitremote-v](./git%20remote-v.jpg)
+
+*This is the output of git log*
+
+![gitlog](gitlog.jpg)
